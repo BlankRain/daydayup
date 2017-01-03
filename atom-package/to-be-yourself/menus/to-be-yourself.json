@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle To-Be-Yourself",
+        "command": "to-be-yourself:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "To-Be-Yourself",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "to-be-yourself:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
