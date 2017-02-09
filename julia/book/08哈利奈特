@@ -1,0 +1,96 @@
+小贤：众所周知，无线电广播源于仿生学，科学家通过蝙蝠和海豚的声波，找到了灵感，无独有偶，互联网这一伟大的创举，同样源于仿生学.
+    人们通过研究蜘蛛结网的原理，建立了互联网！为了纪念互联网之父..奈特，第一次见到那只名叫因特的蜘蛛，
+    所以互联网也被称为……因特网，也有人亲切的叫它……因特奈特当今全球，互联网系统共分为四大区域，
+    每一个区域都由一件互联网的本体，通过光缆覆盖信号。这四大区域分别被命名为：格兰芬多，斯莱特林，赫奇帕奇以及拉文克劳～
+
+展博：这里难道没有人看过哈利波特吗！？
+
+以上为开场白~ 来自<<爱情公寓>> .
+
+曾小贤胡诌的鬼话,偏离事实,却不失一个好故事.不过,他还是歪打正着了一个宝贝.蜘蛛.Spider~
+不过,那只蜘蛛不叫奈特,它叫谷歌,互联网里的蜘蛛侠.
+
+蜘蛛也叫爬虫,网络上有很多网页资源,然后这个小蜘蛛就去一个一个拜访,收集到自己家里,整理一下,就是大把的银子.因为它是互联网通啊,谁家有啥它都清楚.
+然后,你有啥不决,就去问它.它见多识广,就能给你方向及答案.这就是谷歌百度这些家伙干的事情.
+当然,它们顺带狠狠的赚了一大笔钱.这些钱大家不要眼红.各个时代有自己的弄潮儿,想要自己去拿.
+
+扯了这么多闲篇,下面来说说这蜘蛛以及它怎么拜访客户的.
+蜘蛛一般情况下是顺着丝爬的.如果你非要跟我抬杠,我无话可说.杠不是重点,重点是这丝.
+在互联网里,这个丝的DNA叫HTTP协议.现实的某根丝就是个TCP连接.而蜘蛛拜访的客户,就是站点.
+一般有头有脸的客户都有个门卫秘书啥的,那个门卫或者秘书一般情况叫nginx.为啥是nginx?活好.
+先说说DNA. HTTP协议是这样的.
+举个例子:
+访问一下三叔的博客:http://www.moye.me/
+
+Request URL:http://www.moye.me/
+Request Method:GET
+Status Code:200 OK
+Remote Address:106.187.47.251:80
+
+Response Headers
+Connection:keep-alive
+Content-Encoding:gzip
+Content-Length:20685
+Content-Type:text/html; charset=UTF-8
+Date:Thu, 09 Feb 2017 08:37:29 GMT
+Link:<http://www.moye.me/wp-json/>; rel="https://api.w.org/"
+Server:nginx/1.6.2
+Vary:Accept-Encoding
+X-Powered-By:PHP/5.3.3
+
+Request Headers
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, sdch
+Accept-Language:zh-CN,zh;q=0.8
+Cache-Control:max-age=0
+Connection:keep-alive
+Host:www.moye.me
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+
+
+是不是看着要懵逼?先挺住,不要倒下,听我说完再懵逼.HTTP是文本协议,啥是文本协议? 就像合同一样,纸上写的,有字的那种,字你是能认出来的.那就是文本协议.
+文本协议好啊,通用.就跟合同一样.有固定套路格式,甲方乙方,甲方权利乙方权利,甲方义务乙方义务,甲方违约处罚,乙方违约处罚.HTTP协议也有个甲方乙方.
+一般,这甲方叫HTTPRequest 乙方叫HTTPResponse.各个语言有些许差异,比如Java里就叫HttpServletRequest和HttpServletResponse.clojure里面ring叫Request和Response.
+忽略这些细节,这些不是重点.名字不同,但是内容是一样的哦.可以看一下这个 https://github.com/ring-clojure/ring/wiki/Concepts 加深一下理解.也可以不看,就此跳过.
+
+亚当斯密老爷子说过,给我我想要的,你也会获得你想要的. 这一个HTTP请求就是一个交易. 甲方带着一些信息来拜访乙方,乙方拿到甲方的信息返回一些响应给甲方.就是这么个样子啦.
+
+来,看看Julia里面是怎么玩的.
+我们用这个包 https://github.com/JuliaWeb/HttpServer.jl
+安装用这个 Pkg.add("HttpServer")
+代码如下:
+using HttpServer
+
+http = HttpHandler() do req::Request, res::Response
+    Response( ismatch(r"^/hello/",req.resource) ? string("Hello ", split(req.resource,'/')[3], "!") : 404 )
+end
+
+server = Server( http )
+run( server, 8000 )
+
+然后访问 http://127.0.0.1:8000/hello/jack
+你会看见个 Hello jack!
+这个一个简单的搭讪..却包含了最基本的技巧.
+关于DNA就说这么多啦.
+
+下面我们来扮演一下蜘蛛侠,看蜘蛛侠是如何做一个盖世英雄的.
+上文我们知道,蜘蛛侠是甲方.
+Julia里面有个甲方库 https://github.com/JuliaWeb/Requests.jl
+安装是这个样子的  Pkg.add("Requests")
+预备是这个样子的
+using Requests
+import Requests: get, post, put, delete, options
+开始飞檐走壁是这个样子的
+get("http://www.moye.me/")
+post("http://www.moye.me/")
+put("http://www.moye.me/")
+delete("http://www.moye.me/")
+options("http://www.moye.me/")
+这个 get post put delete options 是HTTP协议里面的 Method. Method翻译过来叫方法.但它不是真的方法.只是个名字,姓方名法.
+有这么个小约定,成不成文不知道,get 用来查询数据,post 用来新增数据,put 更新数据,delete 删除数据,options我就不知道了.大概是按照有个RESTFULL的武林套路来架构.
+也不是很懂,你可以不管这些约定.毕竟只是约定,不是实际内容,具体内容要根据具体程序来看.
+Julia 里面 body=String(get("http://www.moye.me/").data) 页面内容就拿到了.
+作为一只小蜘蛛,爬了三叔的主页一次. 爬下来的,得保存,整理,分析.
+先说保存, 直接save(get("http://www.moye.me/")) 就保存到当前目录了.
+再说整理分析,嗯~ 这个嘛.分分词,过滤过滤,打个分就好了.说着还是蛮轻松的,做的时候比较头大.哈哈~这个里面有科学,有知识,关键我是个一知半解的样子,就不吹牛了.
