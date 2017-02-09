@@ -72,3 +72,13 @@ repeat([1 2;3 4],inner=(1,1),outer=(2,1))
 
 
 replace("a", r".", s"\g<0>1")
+
+
+type Point{T}
+    x::T
+    y::T
+end
+
+Point{Int}(2,2)
+
+IntOrString = Union{Int,AbstractString}
