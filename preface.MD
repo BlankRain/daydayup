@@ -1,4 +1,4 @@
-初识 @blankrain 是在一个主题为 Node.js的技术QQ群，在那之后又分别在 智能硬件群、Java技术群、Clojure技术群、FP技术群，还真是个兴趣广泛的人呢。
+初识 @blankrain 是在一个主题为 Node.js的技术QQ群，在那之后又分别在 智能硬件群、Java技术群、Clojure技术群、FP技术群再遇此君，还真是个兴趣广泛的人呢。
 
 随后的日子里，从一起参加社区的 MeetUp，到聚会喝酒谈天说地，@blankrain 于吾的特征慢慢清晰了起来：
 
