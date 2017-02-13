@@ -114,20 +114,20 @@ end
 设=begin end # 我只是想要这么个字而已
 function allPoints(圆心,r=10)
 	x0,y0=圆心
-	degress=60:60:360
-	return map((x)->(cosd(x)r-x0,sind(x)r-y0),degress)
+	degrees=60:60:360 
+	return map((x)->(cosd(x)r-x0,sind(x)r-y0),degrees)
 end
 function 至少N个点(N,原点=(0,0),R=10)
 	所有点=Set([原点])
 	
 	while true
-		temp=Set([])
+		tempSet=Set([])
 		for p in 所有点
-		 newsix=allPoints(p,R)
-		 temp=union(temp,newsix)
+		 newSixPoint=allPoints(p,R)
+		 tempSet=union(tempSet,newSixPoint)
 		end 
 		
-		所有点=union(所有点,temp)
+		所有点=union(所有点,tempSet)
 		
 		if  length(所有点)>=N
 			return 所有点
