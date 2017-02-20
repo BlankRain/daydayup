@@ -1,3 +1,5 @@
+"use strict";
+
 function World(){
     "World"
 }
@@ -14,3 +16,9 @@ class Person{
     }
 }
 let v=new Person("a","b");
+
+import process=require('process')
+
+var currentDir = process.cwd();
+
+console.log(currentDir)
