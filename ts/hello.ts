@@ -19,3 +19,6 @@ class Student {
 
 var user = new Student("Jane", "M.", "User");
 console.log(greeter(user))
+
+let isDone:boolean =false
+let hex:number=0x999
