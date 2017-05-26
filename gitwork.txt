@@ -1,0 +1,61 @@
+ 驱动器 F 中的卷是 新加卷
+ 卷的序列号是 8280-907F
+
+ f:\gitwork 的目录
+
+2017/05/26  17:03    <DIR>          .
+2017/05/26  17:03    <DIR>          ..
+2017/01/09  05:03    <DIR>          AdminLTE-2.3.11
+2016/12/19  10:41    <DIR>          apache-activemq-5.14.3
+2015/09/08  11:20    <DIR>          apache-ofbiz-13.07.02
+2017/05/10  17:35    <DIR>          Assassins
+2017/05/04  11:40    <DIR>          big-repl
+2017/05/05  17:54    <DIR>          BlankRain.github.io
+2017/02/23  14:28    <DIR>          client
+2017/02/20  14:15    <DIR>          clojure-language-server
+2016/01/12  16:01    <DIR>          clojure-master
+2017/04/11  10:35    <DIR>          daydayup
+2017/04/28  09:45    <DIR>          diff
+2017/02/23  11:06    <DIR>          distribution-0.8-bundle-tar
+2017/03/01  10:32    <DIR>          electron
+2017/01/23  09:00    <DIR>          fine-redis-plugin
+2017/05/03  13:57    <DIR>          flappy-bird-demo
+2017/03/22  10:09             1,675 gitblit
+2017/03/22  10:09               411 gitblit.pub
+2017/05/26  17:03                 0 gitwork.txt
+2017/02/23  15:37    <DIR>          gloves
+2016/12/28  09:00    <DIR>          goanywhere
+2017/05/10  11:00    <DIR>          graal
+2017/05/08  08:33    <DIR>          grammars-v4
+2017/02/20  17:28    <DIR>          hello-vscode
+2017/02/15  09:57    <DIR>          IntroToJulia
+2017/02/23  17:07    <DIR>          iotjs-wrt-rx
+2016/12/28  15:27    <DIR>          jadx
+2017/05/05  16:33    <DIR>          JavaPoly
+2017/03/13  10:49    <DIR>          jdk8-nashorn
+2017/05/03  16:18    <DIR>          jisp
+2016/12/14  16:13    <DIR>          jpinyin
+2017/03/15  08:59    <DIR>          kitty
+2016/01/15  11:12    <DIR>          LightTable-master
+2017/05/08  16:06    <DIR>          llvm
+2017/05/08  16:02    <DIR>          llvmtest
+2017/03/01  10:50    <DIR>          markshow
+2017/03/01  10:39    <DIR>          markshow-app
+2016/12/16  08:36    <DIR>          matplotlib
+2017/02/23  11:20    <DIR>          MQTTAction
+2017/02/17  13:44    <DIR>          my-project
+2016/01/22  11:55    <DIR>          Nightcode-2016
+2016/01/14  14:31    <DIR>          Nightcode-master
+2015/05/27  08:25    <DIR>          opencart-2.0.3.1
+2017/02/23  09:17    <DIR>          parser-combinators-tutorial
+2016/12/14  09:44    <DIR>          RxJS
+2017/05/10  15:43    <DIR>          simplelanguage
+2017/02/15  16:36    <DIR>          stanford-corenlp-full-2014-01-04
+2017/02/16  13:52    <DIR>          stanford-corenlp-python
+2015/10/23  14:02    <DIR>          starter-kit-master
+2017/03/22  10:27    <DIR>          test
+2017/02/17  17:42    <DIR>          vscode-languageserver-node-clojure-master
+2017/02/17  10:19    <DIR>          vscode-languageserver-node-example
+2017/04/18  08:46    <DIR>          zenbot
+               3 个文件          2,086 字节
+              51 个目录 181,533,409,280 可用字节
