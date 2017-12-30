@@ -2747,55 +2747,105 @@ quickly
 快走吧
 hurry up
 下班了啊下班了
+off work
 下班了 下班了
+off work
 干什么
+what are you doing?
 我还没有赌完呢
+It's not over
 师傅
+master
 下班了赶紧走吧
+go out quickly after work
 若漓
+Rolly
 若漓
+Rolly
 等会
+wait
 师傅
+master
 师傅
+master
 你们放开师傅
+let master go
 师傅之前对你们这么好
+master were so kind to you
 你们难道就这么忘恩负义吗
+you all forget it
 抓紧做事
+hurry up
 难道你们都想死吗
+wanna death? all of you
 师傅
+master
 师
+ma
 师傅
+master
 还不快滚
+go out quickly
 师傅你没事吧
+Are you okay?
 若漓
+Rolly
 师傅
+master
 快让他坐下
+let him sit down
 来
+come
 师傅
+master
 师傅
+master
 爹
+father
 爹
+father
 儿子来晚了
+I'm late
 让您受苦了
+you are suffering
 当年
+the year
 为了保护我离开
+to protect me leave
 您才被龙霸天
+you were trapped 
 下了蛊
+by Long
 今天我一定要为您报仇
+today, I have a revenge  for you
 高兴
+happiness
 你真的是高兴
+you are happy
 若漓
+Rolly
 谢谢你一直站在我爹这一边
+thank you ,always stand by my father
 辛苦你了
+you've had  a long fight
 今后的事儿
+from now on
 师傅
+master
 就交给我吧
+let me hanlde it
 师傅
+master
 爹
+father
 师傅
+master
 爹
+father
 师傅
+master
 人凑齐啦
+everybody is here
 没想到啊
 你还真是这个老东西
 当年放走的那个小杂种啊
