@@ -2421,78 +2421,149 @@ if not, I already killed you
 可是你呢
 look at you
 联合别人来对付我
-
+union others to beat me
 啊
+ha
 忘了吧
+forget it
 若离啊
+Rolly
 都忘了吧
+forget all 
 龙霸天
+Long
 师父的失踪跟你有关系吧
+the disappearance of master is related to you
 那是他迂腐
+he dead for his foolish
 浅薄
+naive
 该死
+damn it
 这赌界本来就应该这样
+it should be like now
 夜夜笙歌
+dancing all night
 灯红酒绿
+drining all day
 可是他呢
+what about he?
 他说赌界最高的赌境
+he said the most top level 
 是不赌
+is no gamble
 是劝人向善
+advising for kindness
 老不死的
+the old man
 呸
+Bah
 身为赌界镇守者
+the guard of gamble area
 你居然是这么一个不仁不义的小人
+you are such a mean person
 实在是耻辱
+shame !
 把人给我推出来
+get him out
 师傅
+master
 师傅
+master
 师傅
+master
 龙霸天
+Long
 我想起来了
+I remember
 是你让我失忆
+you take my memory
 是你把师傅囚禁起来了
+you put master in prison
 龙霸天
+Long
 我要杀了你
+I kill you
 去天台
+go to roof
 龙霸天
+Long
 你要干什么
+What are you doing?
 干什么
+What am I doing?
 看来当年我留这个老东西
+I 'm wise 
 一条狗命还是有用的
+for leaving the old man alive
 若漓啊
+Rolly
 你是我最有力的守界人
+you are my most talent guards
 我不会把你怎么样
+I won't hurt you
 一会儿那小子来攻第七宫
+later,the boy comes to seventh grid
 如果你输了
+if you lose
 老东西就得死
+master die
 师傅
+master
 至于老东西死
+master 
 还是小混混死
+of the boy
 你说了算
+your decision
 龙霸天
+Long
 你把师傅放了
+let master go
 我用我的命来换
+I exchange with my life
 一会儿你乖乖的给我去守宫
+you guard for me ,no tricks
 不然的话
+otherwise
 就替这个老家伙收尸吧
+take away master's body
 师傅
+master
 师傅
+master
 走啊
+go
 哇
+wow
 这就是第七宫啦
+that's seventh gird
 哇这就是若离姐姐的第七宫了
+wow,It's Rolly's gird
 好雄伟啊
+great
 快我们去前面找若离
+let's go find out Rolly
 我们终于到第七宫了
+we finally come to seventh gird
 那个是若漓吗
+Is she Rolly?
 若漓
+Rolly
 我来找你啦
+I come for you
 若漓
+Rolly
 若漓
+Rolly
 快来接我
+catch me
 若漓
+Rolly
 若漓
+Rolly
 是若漓吗
+Is she Rolly?
 若漓我来了
 若漓
 我们终于来找到你了
