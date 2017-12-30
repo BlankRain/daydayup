@@ -1799,36 +1799,65 @@ you are so slowly
 啊
 ha
 好快啊
-
+so fast
 难道
+Is that
 你也会延时症
+you can delay
 啊 嗯
+ha ,yes
 刚学的
+I learn just now
 靠
+fuck
 这个你也能学哦
+you learn too much
 奇怪
+It's strange
 我为什么我
+I feel
 反应不过来啊
+I can't react in time
 抓住那两小子
+catch the boy
 跟上
+follow up
 快点
+come on
 快
+come
 这么多黑衣人
+so many man in black
 宝哥有危险
+Paul is in danger
 不行
+yes
 我得赶紧回去
+I need go back
 哈尼哈尼
+haw haw
 哈尼哈尼
+haw haw
 你还有一次机会咯
+you have only one chance left
 一次一次就一次
+one is enough
 来吧
+come on
 石头剪刀
+rock scissors
 布
+paper
 看招 布
+look paper
 你
+you
 你干要什么啊
+what do you do?
 大姐
+lady
 我可赢了啊
+I win
 我怎么就输了啦
 我出的剪刀啊
 你出的什么啊
