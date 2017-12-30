@@ -1859,65 +1859,126 @@ lady
 我可赢了啊
 I win
 我怎么就输了啦
+How could I lose
 我出的剪刀啊
+I show scissors
 你出的什么啊
+what' your trick?
 这
+e
 哎呀
+yeah
 你在耍花招啊
+you are tricking
 你说的石头剪刀布
+you said rock scissors paper
 你又没说怎么出
+you didn't tell the rule
 你心机太多的了啦
+you trick a lot
 那
+so
 那那
+so ..
 那
+so
 那那
+so ...
 那什么啊
+so what?
 你 你 你不要占我便宜哦
+don't take advantage of me
 我跟你讲了了
+I told you
 四局你能赢我一局
+if you can beat me once
 那我就下跪
+I knell down 
 嗯那个那个
+that ,that ..
 什么 什么意思的了
+the meaning
 搞不清楚
+I mix up
 搞不清楚
+I'm confused
 搞不清楚
+I'm confused
 不懂
+confused
 不懂
+confused
 搞不清楚
+can't understand
 诶
+well
 说话不算数是不是
+you don't have your word
 耍赖是不是
+right?
 啊
+Oho
 削你啊
+I teach you a lesson
 你 你
+you you 
 你这个大男人
+a gentleman
 怎么这么不懂得怜香惜玉的喽
+show your manners
 你是玉吗
+Are you gentle?
 再怎么讲
+However,
 人家也是宫主的了
+I'm the master
 宫主
+master
 也不行
+who care
+
 快点
+quickly
 快点
+quickly
 我说宫主啊
+hi, master
 咱们做事
+can we show
 能认真点吗
+some respect ?
 嗯
+ng
 哼
+humple
 唉
+well
 平身
+stand up
 哼
+humple
 人人家
+I 
 人家还要泡香香的啦
+I 'm taking  bathes
 哼
+humple
 水都凉了啦
+water is cold now
 哼
+humple
 小师妹啊
+dear my little sister
 小师妹
+little sister
 你说平时师兄最疼的就是你了
+I love you most.
 你怎么就学不乖呢
+you are so lovely
 若漓啊
+Rolly
 我劝你最好想想清楚
+
 五六宫的宫主已经死在我的手上了
 你该不会想跟她们一个下场吧
 老大
