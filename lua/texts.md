@@ -1625,44 +1625,81 @@ I can only go with win the lady
 你是
 you are
 包
-
+boss
 租婆
+of tenats
 谁
+who?
 谁是包租婆啊
+who is the boss of tenats?
 人家是
+I
 人家是
+I am
 人家是宫主的嘛
+I am the master
 怎么看
+you must be kidding
 也不像宫主啊
+you are not master
 你不信的话
+if you don't believe,
 你比试比试就知道我是不是宫主咯
+we test
 又要比呀
+gamble once more?
 你们这的人怎么都这么爱攀比啊
+why all of you love gamble?
 说吧
+okay.
 比什么啊
+what to play?
 比就要比
+I want to play
 石头剪刀布喽
+rock-paper-sicssors
 我同你讲啊
+I tell you
 石头剪刀布哇
+rock-paper-sicssors
 是我宝哥最擅长的赌博项目
+is my most good at items
 小时候江湖上人送外号
+when I was young
 东北小拳王
+They call me king of boxing in northeast
 你玩完啦
+you are definitely die
 我跟你讲了啦
+listen to me
 你四局能赢我一局
+you can won me one of four terms
 那我就
+I 
 下跪
+kneel down
 给你认输啊
+to you for give in
 你说的啊
+you have your word
 我说的啊
+yes ,my word
+ok
 ok
 行
+deal
 爽气
+frank 
 石头剪刀
+rock sicssor
 布
+paper
 丑仔
+ugly lady
 你第一局就输了吧
+you lose first time
 还有三次机会呦
+you still have three chances
 哼
 切
 可以啊
