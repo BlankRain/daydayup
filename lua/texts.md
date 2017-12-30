@@ -1431,44 +1431,83 @@ let's see
 一会你看着
 just a moment
 吹吹呼呼的
+crazy boy
 咋这么能得瑟
+too crazy
 我
+I
 妈呀
+oh my god
 你们跟我走
+follow me
 走
+go
 跟我相好走
+I go with my girl-friend
 你们一直顺着这条路往下走
+go straight down
 走的越远越好
+the further ,the better
 啥意思
+what do you mean?
 撵我们走啊
+drive us out?
 龙霸天是在利用你
+Long use you
 他迟早会对你下杀手
+he will kill you now or later
 到时候你就来不及了
+not too late now
 不行
+no
 走
+go
 我是要成为
+I'm the one
 赌神的男人
+to be gambler god
 不是
+no
 怎么能一吓就走呢
+I can't go away with fear
 说得好
+good 
 若漓呀
+Rolly
 我是怎么也想不到呀
+I can't image that
 你居然能出卖我
+you betray me
 快回来
+come back
 哎哎
+hay .. hay..
 我说你谁啊
+who are you?
 你谁呀
+who ?
 干嘛
+stop 
 干嘛呀
+what are you doing?
 干嘛
+none of your business
 若漓
+Rolly
 别拉我你
+don't touch me
 撒手
+let'me go
 你别拉我
+stop
 我靠
+fuck!
 你这个山驴敢动我马子
+how dear the stupid ducky touch my girl-friend? 
 别到我宝哥
+leave me ,Paul
 宝哥
+Paul
 别打我别打我宝哥
 小子
 喜欢我小师妹是吧
