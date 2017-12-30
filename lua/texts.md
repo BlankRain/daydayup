@@ -2309,62 +2309,119 @@ I'm the cooler
 天煞孤星啊
 demon
 我来帮他开
+I help him
 你是谁啊
+who are you?
 我才是真正的宝哥
+I'm Paul
 他只是我的一个小弟
+He is just my brother
 本来
+first
 想让他替我的
+I want he replace me
 没想到
+However
 这么没种
+he is too weak
 连牌都不敢开
+Can't show hand.
 爸
+father
 妈
+mother
 你们生我到这个世界上是干嘛
+why I came to this world?
 这不是侮辱了整个世界吗
+It's a shame
 谁开都一样
+it doesn't matter
 两个人一起自卑
+both of you 
 应该会更好玩
+may be more funny
 我开
+I go
 我最大
+I 'm biggest
 你输了
+you lose
 你怎么会不自卑
+why you are not self-based?
 你明明中了我的潘朵拉魔咒啊
+you are trapped
 对不起啊
+sorry
 哥从小就是在自卑中长大的
+I'm always self-based
 应该没法更自卑了吧
+I can't have more 
 所以你的魔咒对我不起作用
+so it doesn't work for me
 怎么回事
+what's wrong?
 我又输了是吗
+Did I lose once more?
 不要
+no
 不要
+no
 不要
+no
 我们赢了
+we win
 赢了
+win
 赢啦
+yes ,we win
 宝哥赢啦
+Paul win
 小潘
+Pandoras
 你不要哭哈
+don't cry
 我给你买棒棒糖吃
+I buy sugar for you
 我不要
+I don't want it
 不要不要
+I don't
 别哭啊
+don't cry, baby
 走走
+go go
 这你不要哭啊
+no crying
 小潘
+Pandoras
 老大
+boss
 那两个小子已经杀到第七宫了
+the two boys are on their way seventh gird
 杀了他
+kill
 是
+copy that
 龙霸天
+Long
 你身为赌界之主
+you are the king of gamble area
 有人挑宫
+someone challenges
 你非但不赌反而要杀了他
+you want to kill him
 我看你是怕了吧
+you are afraid
 若离啊若离
+Rolly
 我念你我是同门师兄妹
+you are my sister
 我才好生待你不取你性命
+if not, I already killed you
 可是你呢
+look at you
 联合别人来对付我
+
 啊
 忘了吧
 若离啊
