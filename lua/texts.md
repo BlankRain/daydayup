@@ -2669,45 +2669,83 @@ fine,fine,fine
 庄家赢
 banker win
 没想到吧老东西
-
+old man, can't you believe it.
 你教出来的徒弟
+your pupil
 在我手上比在你手里有用的多呀 啊
+much available in my hand than yours
 若漓
+Rolly
 是我赢你
+If I win you
 我赢你
+I win you
 你啥记忆力啊
+bad memory
 就这你还比记忆力呢
+you are not act well
 怎么怎么提醒你都想不起来呀
+you remember nothing whatever I remind you
 哎
+well
 得了
+fine
 我自己来吧
+I do myself
 宝哥
+Paul
 别溜号
+don't go
 若漓姑娘
+Miss Rolly
 在荷官洗牌的时候
+while the dealer shuffling
 就已经记牌了
+she remember all of it
 三局两胜
+best of three
 你要是再输一局
+you lose once more
 我就赢了
+I win
 诶
+ah
 若漓
+Rolly
 这张黑桃A我给你啊
+you pick me Black A up
 不欺负你手慢
+I won't take advantage of your slow hands
 可是
+however
 还是我赢
+I win last
 哎还有一张
+There still a card
 方片A
+Square A
 你没有记住
+you don't remember
 闲家赢
+players win
 哎呦若漓若漓
+hey, Rolly
 别玩了
+no playing
 我这还没使延时症呢
+I haven't using delay
 我要使了的话你一张牌都拿不着
+If I do, you pick nothing
 别玩了
+no playing
 好吧若漓
+Rolly
 咱们这会儿赶紧走吧
+let's go now
 快
+quickly
 快走吧
+hurry up
 下班了啊下班了
 下班了 下班了
 干什么
