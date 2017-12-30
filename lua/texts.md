@@ -2565,58 +2565,111 @@ Rolly
 是若漓吗
 Is she Rolly?
 若漓我来了
+Rolly, I'm coming
 若漓
+Rolly
 我们终于来找到你了
+We finally here
 累死我了
+I'm tired to death
 跟我来
+follow me
 哎 怎么一会儿在
+hey, you are 
 洗牌
+playing card
 嗯
+yes
 若漓
+Rolly
 你咋了
+What's wrong with you?
 坐下
+sit down
 嗯
+ok
 坐坐
+have a sit
 今天
+today
 我们就比一下记忆力
+we test our memory
 从这一副牌中
+pick five cards
 抽五张牌
+from these cards
 比牌面大小
+then compare numbers
 比啥记忆力啊
+memory?
 我外号叫
+I have a name
 录影机
+record
 我明白了
+I see
 你是想给我放水
+you are cheeting for us
 嗯什么
+what?
 没事没事
+nothing
 我懂你
+I know you well
 那咱们赶紧
+let's start
 赶紧开始吧
+start
 又见面了
+we meet again
 嗯
+ng
 若漓好棒
+Rolly ,good job
 若离好棒
+Rolly ,well done
 好棒好棒
+Rolly ,nice job
 厉害厉害
+awesome
 厉害厉害厉害
+fucking awesome
 你挑牌啊
+you pick first
 太厉害了
+it's cool
 厉害厉害
+really cool
 挑牌呀
+pick up 
 挑牌呀
+pick up
 挑牌呀
+pick up
 这一局
+this term
 一定是我赢
+I win definitely
 若离
+Rolly
 不是
+Isn't
 我赢你吗
+I win you
 挑牌啊
+Pick up
 挑啥牌啊
+no need
 什么牌能管四个A
+what can win four A
 大炸弹
+big bomb
 算了算了算了
+fine,fine,fine
 庄家赢
+banker win
 没想到吧老东西
+
 你教出来的徒弟
 在我手上比在你手里有用的多呀 啊
 若漓
