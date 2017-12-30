@@ -2147,86 +2147,167 @@ I win
 of course
 what
 我怎么了
+what' wrong with me?
 原来
+so
 你这么自卑啊
+you are inferiority
 自己都知道自己是个人渣
+you know yourself well, a bad man
 谁是人渣
+who is bad man?
 你才是人渣
+you are
 你全家都是人渣
+all your family is bad
 你自己说的呀
+you told yourself
 我呢
+I
 能激发出人类最深层的自卑心理
+can let you feell self-abased 
 你只认识到你自己是个人渣
+you can only know you are bad
 这可远远不够哦
+it's not enough
 我们接着来啊
+go on
 什么玩意儿啊
+what' the hell?
 你宝哥我什么时候自卑过啊
+I never self-abased
 来来来
+come on
 再来
+once more
 我今天让你见识见识
+let me show you
 什么叫
+what is
 自信心
+self-confidence
 爆棚
+overflow
 我猪狗不如啊
+I'm not rather than a pig or dog
 我怎么可能活在这个世界上
+How should I live in the world?
 我想变成屎壳郎
+I want to be shit
 我只配吃屎
+I only deserve shit
 谁赢啊
+who is winner?
 当然是你赢
+of course you
 像我这种人
+the man like me
 从小
+always
 撒尿尿一鞋
+urine on shoes
 放屁崩出屎
+fart with shit
 拉屎抠破纸
+go pee on hand
 像我这种坏运气的人
+the man with bad luck
 怎么可能赢得了别人
+how could be winner?
 喂
+hey
 你怎么能问我这个问题
+how could you ask me that
 让我这种没好运气的人赢
+let me win
 那不是在侮辱赌术吗
+what a shame
 那不是在侮辱你吗
+shames you
 那
+so
 那
+so
 那
+so
 我赢了
+I win
 当然啊
+of course
 我靠
+fuck
 你给我下了什么药
+you drag me
 我没给你下药啊
+I don't
 这都是
+that's all your
 你自己说的
+words by yourself
 现在
+now
 还剩最后一次机会咯
+the last chance
 她肯定是用眼神来催眠我
+she must hypnosis me via eyes
 我每次看到她眼睛
+every time I saw her eyes
 就变得身体不受控制
+I lose my control
 肯定是这样的
+Must be that
 只要我闭上眼睛
+I just close my eye
 他就没办法了
+she run out of her lucky
 这把我
+this time
 来吧来吧
+come on
 真无聊
+boring
 这么快就要结束了
+too quickly to end up
 你的把戏已经被我看穿了
+I know your tricks
 准备好哭吧
+be ready for cry
 小妹妹
+little sister
 诶宝哥哥
+Brother Paul
 你闭着眼睛
+you close your eyes
 怎么抽牌啊
+how to get card
 哥这是赌术的最高境界
+it's my highest level skill
 叫盲赌
+called blind 
 懂个屁啊
+you know nothing
 切
+wow
 为什么
+why 
 我还是个处男
+I'm still a virgin
 难道真的是我长得太挫了吗
+Am I too ugly?
 若漓怎么会喜欢我这样的人
+Roll can't love man likes me
 也只有傻子熊五愿意跟着我
+Only fool will follow me
 现在
+now
 熊五还离我而去啦
+Bear left me out
 我注定是要孤独终老
+I'm the one dead alone
 我是地狱倒霉鬼
+I'm the cooler
 天煞孤星啊
+demon
 我来帮他开
 你是谁啊
 我才是真正的宝哥
