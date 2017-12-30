@@ -2847,114 +2847,226 @@ master
 人凑齐啦
 everybody is here
 没想到啊
+I can't believe it
 你还真是这个老东西
+you are his son
 当年放走的那个小杂种啊
+leaving that year
 不过
+it doesn't mater
 你这个小无赖一路耍诈
+you trick a lot
 能诈到我八宫
+reached eighth grid
 这说明你还是有点本事啊
+you have something real.
 你个下三滥的老千
+you are shameless faker
 还敢说别人使诈？
+How dare you say I play tricks? 
 老千
+faker
 没有实力的那才叫老千
+without power, it's faker
 有实力的那当然是赌神了
+with power, it's god
 对不对啊老东西
+I'm sorry old man
 成王败寇
+winner take all 
 好
+good 
 今天
+today
 我就跟你赌一局
+I play with you
 看看谁
+let's see
 才是真正的赌神
+who is the real gambler god
 好啊
+good 
 我就跟你赌一赌
+I play with you
 年轻人
+young man
 离得是不是太近了
+you are too close
 我和你吻别
+I kiss goodbye with you
 在赌神之巅
+on the top of god
 让风痴笑我不能拒绝
+let the wind laugh me
 别他妈唱了
+stop fucking singing
 那不唱赌什么啊
+no sing, what we play?
 要不我们比
+let play..
 比什么
+what?
 只要是
+only it's
 只要什么
+what?
 我他妈这不是正在说着呢吗
+I'm fucking thinking
 气势还蛮强的
+you are a kind of irritable
 那你刚刚倒是说啊
+say it..you say it
 要不
+what about
 要不
+what about
 只要我们不比唱歌比什么都行
+whatever ,besides sing
 那不跟没说一样吗
+meaningless
 要不
+how about
 我们比枪
+shotting
 多大人了
+you are not  kid anymore
 还玩玩具
+play toys
 哥
+brother
 别闹了
+stop kidding
 玩具
+toys
 第五发
+fifth
 还有一发子弹
+one bullet left
 咱两每人朝着自己开一枪
+we shot one'self one by one
 活下来的赢
+the one live ,the one win
 这在西方
+It's the best
 是最佳的决斗手段
+way for duel in western
 叫做俄罗斯轮盘赌
+Russian roulette
 敢不敢跟我赌
+will you?
 敞亮
+frank
 你先来
+you go first
 诶
+well
 你先来
+you go first
 嘿
+hey
 龙哥
+Long
 都自己人
+we all brothers
 别客气
+you are welcome
 自己人
+brothers
 谁跟你自己人了！
+who is your brother?
 拿着
+take it
 不要比了
+stop it
 大不了
+lastly
 咱们跟他拼了
+we fight with him
 对
+right
 跟他拼了
+fight
 若漓
+Rolly
 没关系
+doesn't matter
 看你宝哥我怎么赢他
+I'll show you how to win him
 小宝
+Paul
 我
+I
 还以为
+I was thought
 卡壳了呢
+stucked
 该你了
+your turn
 你耍我啊
+you play tricks on me
 不敢
+I don't
 谁说我不敢
+let's see
 请
+please
 赌神
+gambler god
 师傅
+master
 师傅
+master
 师傅
+master
 爹
+father
 爹
+father
 你醒了
+you are waking
 小宝
+Paul
 爹
+father
 师傅
+master
 师傅
+maseter
 儿媳妇啊
+my daughter-in-law
 啊儿媳
+ha , my wife
 赌神 赌神 赌神
+gamble god
 赌神我爱你
+I love you
 好帅啊
+so handsome
 赌神
+gamble god
 赌神 赌神
+god god 
 赌神我爱你
+I love you
 赌神 赌神
+god god
 赌神好帅呀
+so awesome
 好帅啊
+perfect face
 赌神 赌神
+god god
 赌神我爱你
+I love you
 又有希望了
+another hope
 赌界又有新主人啦
+a new master of gamble area
 赌神我爱你
+gamble god ,I love you
 给我签个名吧
+sign me
 赌神我爱你
+gamble god, I love you
 赌神好帅
+handsome..
