@@ -1701,55 +1701,105 @@ you lose first time
 还有三次机会呦
 you still have three chances
 哼
+Humph
 切
+Humph
 可以啊
+good job
 再来
+once more
 石头剪刀
+rock sicssors
 这大姐要出布
+paper, she will show
 布
+paper
 哈哈哈哈哈哈
+ha,ha,ha,ha,ha
 东北小拳王
+king of boxing in northeast
 东北小拳王
+king of boxing in northeast
 臭臭臭臭臭
+shit shit
 好臭
+fucking shit
 不对呀
+bullshit
 我看你出的明明是
+I saw you are showing 
 布呀
+paper
 我跟你讲的啦
+I told you
 不是因为你知道我要出布
+not because you know I have paper
 而是我知道你要出剪刀的咯
+but I konw you will show sicssors
 为啥
+why?
 你晓不晓得那个
+Have you heard that?
 嘿
+hey
 那个闪电侠
+the flash!
 就是依照我
+based on me
 为原版改编的漫画的咯
+Adaptated to comic
 真能扯犊子
+bullshit
 我还蜘蛛侠呢
+I can be spiderman
 靠
+fuck
 不信是不是啊
+you don't believe
 那我再拽一次你瞧瞧啊
+I'll show you once more
 来呀
+come on
 我看看
+let me see
 准备好没有啊
+Are you ready?
 嗯
+yes
 我靠
+fuck
 丑仔呀
+ugly lady
 这个
+This
 就叫做延时症
+is called delay
 这就是延时症啊
+That's delay
 你还剩两次机会哦
+you still have two chances
 有意思
+interesting
 来吧
+come on
 石头
+rock
 剪刀
+scissors
 石头
+rock
 布
+paper
 你你你在干什么啊
+what' are you doing?..
 太慢了
+too slow
 太慢了
+you are so slowly
 啊
+ha
 好快啊
+
 难道
 你也会延时症
 啊 嗯
