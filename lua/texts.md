@@ -1574,33 +1574,58 @@ what's that?
 多大的美女
 what a beauty.
 洗澡洗成这样
-
+bathe as this..
 （歌词止）
 啊
+a..
 啊
+a..
 闹鬼呢
+Satan!
 咿呀
+e..ya..
 长得这么丑
+what a ugly face
 我以为是小鲜肉哇
+I thought a nice face
 说谁丑呐
+who is ugly?
 哎我说大姐
+hay,my sister
 你谁呀
+who are you?
 你来我地盘
+You are in my place
 我没有问你是谁
+I haven't asked who you are
 你反倒问我是谁啊
+you ask me first.
 我宝哥啊
+Dear my Paul..
 说啥事
+what' wrong?
 啥事
+what' the matter?
 没事没事那我走了
+nothing? nothing ,I go first
 咦
+e...
 想走
+wanna go away
 可以的咯
+a good dream
 你
+you
 这
+e
 刚才你不是在
+you just now
 赢了老娘我才能走哦
+I can only go with win the lady
 你是
+you are
 包
+
 租婆
 谁
 谁是包租婆啊
