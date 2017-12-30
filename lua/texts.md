@@ -1509,39 +1509,72 @@ leave me ,Paul
 宝哥
 Paul
 别打我别打我宝哥
+don't beat me, Paul
 小子
+hi, boy
 喜欢我小师妹是吧
+love my sister?
 想救她就来找我
+come for me if you want her.
 我倒要看看你能打几宫
+show me your power
 宝宝哥
+Pa..Paul..
 咱们走吧
+let' run 
 你是斗不过他的
+you can't win him
 他可是龙霸天
+he is Long
 赌界的老大呀
+the only king of gamble area
 不行
+no!
 若漓有危险
+Rolly is in danger
 我得去救她
+I have to save her
 宝哥
+Paul
 你走吧
+you go
 不关你的事
+none of your business
 别连累你
+I don't want to trouble you
 宝哥
+Paul
 走啊
+go out
 我说话不好使是不是
+My words lost power?
 滚
+go out
 宝哥
+Paul
 滚越远越好
+as far as you can, go out!
 宝哥
+Paul
 宝哥
+Paul
 滚
+go
 宝哥
+Paul
 宝哥
+Paul..
 （歌词）
 哇
+wow
 谁唱歌了
+someone is singing
 唱的啥呀这是
+what's that?
 多大的美女
+what a beauty.
 洗澡洗成这样
+
 （歌词止）
 啊
 啊
