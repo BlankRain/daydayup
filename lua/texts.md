@@ -1978,90 +1978,173 @@ you are so lovely
 若漓啊
 Rolly
 我劝你最好想想清楚
-
+you'd better think carefully
 五六宫的宫主已经死在我的手上了
+fifth and sixth master already killed by me
 你该不会想跟她们一个下场吧
+I don't think you want to be the next
 老大
+boss
 那小子冲破了第三宫
+the boy won third grid
 正在前往第四宫
+and on the way to fourth gird
 剪刀娘的延时症也让他给破了
+scissors lady's delay not works
 看来你这个新靠山还真是有两下子
+your new boss looks powerfull
 不过越是这样的人
+but, more powerfull
 越过不了第四宫
+more diffcult to pass the fourth gird
 我靠
+fuck
 这么黑啊
+too dark
 大哥哥
+brother
 你好呀
+hello
 小妹妹
+little sister
 你
+Are you 
 成年了吗
+under age?
 你说呢
+you guess
 你
+you
 不会就是这
+can't be 
 第四宫的
+the master
 宫主吧
+of  fourth grid
 不是我啊
+not me
 难道是你啊
+but you?
 我发现你们赌界的宫主啊
+all your master
 真挺有个性的
+is unique
 那小妹妹你叫什么呀
+what's your name?
 潘朵拉
+Pandora
 潘朵拉
+Pandora
 好像在哪儿听过
+I must heared it before
 那你呢
+and you?
 你大哥哥我
+I'm
 就是传说中的
+the leagues
 宝哥
+Paul
 那宝哥哥
+Paul
 你能陪我玩会儿吗
+Could you play with me?
 可以啊
+fine
 宝哥过来就是陪你玩的
+I'm here to play with you
 你说
+your turn
 玩什么
+what to play?
 我只会玩比大小
+I can only guess numbers.
 比大小
+guess numbers.
 小时候玩过
+I played when I was a child
 老二最大嘛
+A is biggest
 什么老二最大呀
+what' the meaning?
 最大的当然是A啊亲
+A is the most bigger
 无所谓
+whatever.
 来吧来吧
+come on
 那我给你三次机会
+you have three times
 只要你赢我一次
+you win me once
 就算你赢哦
+you are winner
 小妹妹
+litter sister
 嗯
+ng
 我好心提醒你啊
+I kindly remind you 
 你前几宫那几位
+the last masters
 都这么说的
+have the same word as you
 结果啊
+however
 输得老惨啦
+they lose 
 说出去的话
+my word
 泼出去的水
+I have it
 既然这么说了
+okay
 就这么定了
+deal
 给你机会了啊
+I gave you chance
 那我可不让着你了啊
+I'll not show mercy
 小妹妹
+sister
 你先来
+you go first
 看我怎么血洗你这个小萝莉
+let me beat you litter girl
 我问一下啊
+May I ask a question?
 最大的牌是黑桃A吧
+Black A is biggest, right?
 嗯运气不错嘛
+ng, good luck
 哎呦我觉得已经没有必要比了
+ha ,not necessary
 胜负已定啊
+I already win
 那可不一定哦
+I don't think so
 我是人渣
+I'm a bad man
 我不配摸到这么好的牌
+I'm not deserved
 这不是真的
+It's not true
 我抽的红星三
+I have red-star-three
 你敢开吗？
+Can you show hand?
 我不敢
+no I can't
 我弃牌
+I give up
 哼哼
+ha ha
 那
+so
 这算我赢了哦
+I win
 当然是你赢
+of course
 what
 我怎么了
 原来
