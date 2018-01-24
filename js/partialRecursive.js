@@ -7,7 +7,7 @@ const keys = (o) => {
     return r.sort((x, y) => x.length > y.length ? -1 : 1)
 }
 
-const recurMother = (fn) => {
+const partialRecursive = (fn) => {
     var _fn = function (inx, obj) {
         if (['string', 'number', 'boolean'].indexOf(typeof obj) > -1) {
             return fn(inx, obj)
@@ -35,17 +35,17 @@ const recurMother = (fn) => {
     return _fn
 }
 
-const index = recurMother((inx, obj) => {
+const index = partialRecursive((inx, obj) => {
     if (inx[obj]) {
         inx[obj]++
     } else {
         inx[obj] = 1
     }
 })
-const encode = recurMother((inx, obj) => {
+const encode = partialRecursive((inx, obj) => {
     return inx.indexOf(String(obj))
 })
-const decode = recurMother((inx, obj) => {
+const decode = partialRecursive((inx, obj) => {
     var v = inx[Number(obj)]
     if (v == 'true' || v == 'false') {
         return { 'true': true, 'false': false }[v]
