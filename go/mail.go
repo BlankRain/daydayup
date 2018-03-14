@@ -19,8 +19,8 @@ var logwg sync.WaitGroup
 
 func main() {
 	fmt.Println(gen_ip())
-	fmt.Println(get_mail(586876519481))
-	leader(10)
+	fmt.Println(get_mail(586876519480))
+	leader(4)
 	read_task()
 }
 
@@ -38,7 +38,7 @@ func rand_int() int {
 
 func get_mail(n int64) Result {
 	client := &http.Client{}
-	req, err := http.NewRequest("GET", fmt.Sprintf("http://www.kuaidi100.com/query?type=shunfeng&postid=%d&id=1&valicode=&temp=0", n), strings.NewReader(""))
+	req, err := http.NewRequest("GET", fmt.Sprintf("http://www.kuaidi100.com/query?type=shunfeng&postid=%d&id=1&valicode=&temp=0.9510655129234886", n), strings.NewReader(""))
 	if err != nil {
 		panic(err)
 	}
@@ -50,7 +50,7 @@ func get_mail(n int64) Result {
 		req.Header.Set("Cookie", string(cookie))
 	}
 
-	req.Header.Set("User-Agent", "Mozilla / 5.0(X11; Windows x86_64) AppleWebKit/ 537.36(KHTML, like Gecko) Chrome/ 62.0.3202.94 Safari/ 537.36")
+	req.Header.Set("User-Agent", fmt.Sprintf("%s%d", "Mozilla / 5.0(X21; Windows x86_64) AppleWebKit/ 537.36(KHTML, like Gecko) Chrome/ 62.0.3202.94 Safari/ 537.36", rand_int()))
 	req.Header.Set("X-Forwarded-For", gen_ip())
 	resp, err := client.Do(req)
 	if err != nil {
