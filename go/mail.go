@@ -117,6 +117,7 @@ func worker(tasks chan int64, record chan string, worker int) {
 		} else {
 			fmt.Printf("%d with result: %s\n", task, r.Message)
 		}
+		time.Sleep(time.Duration(1) * time.Second)
 	}
 }
 func logger(record chan string, start int64, end int64) {
