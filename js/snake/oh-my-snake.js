@@ -100,6 +100,13 @@ function pickPositon([xi, x, yi, y]) {
     return [An_x(2 * xi - 1)[x - 1], An_y(2 * yi)[y - 1]];
 }
 
+function f(n) {
+    return pickPositon(indexToN(n));
+}
+/**
+ * 
+ * @param {*} n 
+ */
 function take(n) {
     var ret = [];
     for (var i = 1; i < n; i++) {
@@ -109,4 +116,20 @@ function take(n) {
     return ret;
 }
 
-console.log(take(30))
+function walkForward(f, i) {
+    var x = {
+        cursor: i || 1,
+        func: f
+    };
+    var ret = () => {
+        var r = x.func(x.cursor);
+        x.init++;
+        return r;
+    };
+    ret.meta = x;
+    return ret;
+}
+
+var demo=walkForward(f,1)
+demo()
+demo.meta
