@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+
+    <link rel="shortcut icon" href="images/favicon.png" />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <script>
+        var $ = function (sel) {
+            return document.querySelector(sel);
+        };
+        var $$ = function (sel) {
+            return document.querySelectorAll(sel);
+        };
+    </script>
+
+
+    <script src="FileSaver.js"></script>
+    <script src="livereload.js"></script>
+    <script src="../build/cytoscape.umd.js"></script>
+    <!-- <script src="./cytoscape-cose-bilkent.js"></script> -->
+    <script src="./cytoscape-cose-bilkent.js"></script>
+    <script src="./oh-my-snake.js"></script>
+    <title>cytoscape.js debug page</title>
+</head>
+
+<body>
+    <br />
+    <div id="cytoscape"></div>
+    <div id="cy"></div>
+    <script src="snake-init.js"></script>
+
+    <script>
+        var points = take(30);
+        var point2 = points.slice(1)
+        for (var point of points) {
+            let [x, y] = point
+            cy.add({
+                data: {
+                    id: `${x}${y}`,
+                    label:`(${x},${y})`
+                },
+                position: {
+                    y: x * 100,
+                    x: y * 100
+                }
+            })
+        }
+        for (var i = 0; i < point2.length; i++) {
+            let [xs, ys] = point2[i]
+            let [xt, yt] = points[i]
+            cy.add({
+                data: {
+                    id: `E${xs}${ys}${xt}${yt}`,
+                    source: `${xs}${ys}`,
+                    target: `${xt}${yt}`
+                },
+            })
+        }
+    </script>
+
+</body>
+
+</html>
